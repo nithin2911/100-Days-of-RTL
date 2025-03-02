@@ -2,6 +2,7 @@
 
 Welcome to the 100 Days of RTL Coding challenge. This structured curriculum is designed to help you master RTL design through hands-on coding exercises. The focus will be solely on coding tasks, gradually increasing in complexity from beginner to advanced levels.
 
+Logging my RTL codes and Learnings on [Google Docs](https://docs.google.com/document/d/1eQ7nqKgPQ6AywVJKSVVJ02bHOq8ehns-pzNDFbToKyQ/edit?usp=sharing)
 ---
 
 ## Phase 1: Basics of RTL Design (Days 1-30)
